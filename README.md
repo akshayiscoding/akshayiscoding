@@ -39,6 +39,6 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshay7619&show_icons=true&hide_border=true" />
 
-[website]: https://innovatechs.com
+[website]: https://akshay-kumar.com
 [instagram]: https://instagram.com/akshaykumar.jpg
 [linkedin]: https://linkedin.com/in/akshay-kumar-fullstackdeveloper
